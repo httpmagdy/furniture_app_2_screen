@@ -37,7 +37,7 @@ class HomeBody extends StatelessWidget {
         itemCount: items.length,
         itemBuilder: (ctx, i) => Container(
           margin: EdgeInsets.only(bottom: 20),
-          height: 180.h,
+          height: 200.h,
           color: Color(int.parse(items[i].color)),
           child: Row(
             children: <Widget>[
@@ -57,7 +57,7 @@ class HomeBody extends StatelessWidget {
                           color: Color(
                             int.parse(items[i].colorB),
                           ),
-                          fontSize: 16,
+                          fontSize: ScreenUtil().setSp(17),
                         ),
                       ),
                     ),
