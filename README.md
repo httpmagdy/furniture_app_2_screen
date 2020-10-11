@@ -4,6 +4,6 @@ Flutter project.
 
 ## Screenshots
 
-![GitHub Logo](/screenshots/01.png)
+![GitHub Logo](/screenshots/001.png) ![GitHub Logo](/screenshots/002.png)
 
-![GitHub Logo](/screenshots/02.png)
+
