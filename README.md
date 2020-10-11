@@ -1,5 +1,9 @@
 # furniture_app
 
-A new Flutter project.
+Flutter project.
 
-![alt text]()
+## Screenshots
+
+![GitHub Logo](/screenshots/01.png)
+
+![GitHub Logo](/screenshots/02.png)
